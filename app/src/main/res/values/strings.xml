@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab04</string>
+    <string name="apple">Apple</string>
+    <string name="strawberry">Strawberry</string>
+    <string name="blueberry">Blueberry</string>
+    <string name="potatoes">Potatoes</string>
+    <string name="calculate">Calculate</string>
+    <string name="zero">0</string>
+    <string name="include_commodity">Include</string>
+    <string name="number">Number</string>
+    <string name="price">Price</string>
+    <string name="total_commodity">Total</string>
+    <string name="total_all">Total:</string>
+    <string name="author">Курчавов Алексей 204 группа СПБКИТ</string>
+    <string name="result_form">Result output</string>
+    <string name="toast">Toast</string>
+    <string name="dialog_window">Dialog window</string>
+</resources>
